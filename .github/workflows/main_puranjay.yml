@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'puranjay'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_06A010BC1BB04507A0E31C8E786CFCA8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F14B7A81EBAF46BB821787DD3808C5AC }}
           package: .
